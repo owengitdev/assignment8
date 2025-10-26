@@ -1,0 +1,22 @@
+Why is a hash table the right structure for fast lookups?
+Hash table is about storing any crucial key-value pairs and offering some
+efficient case performance for insertion, deletion and retrieval operations.
+The reason I believe that Hash table is the right structure for fast lookups since it
+achieve an average time complexity of O(1) and also a great solution for any various lookups.
+Hash tables are the best since they can easily calculate exactly where the data can be exactly placed
+at the correct place without any errors coming.
+
+How did you handle collisions?
+Collision is handled with a techniques that can separate chaining and the hash table can easily
+store any linked list at each respectively index instead of just 1 value due to arrays can only hold one
+item at a time in a single index. Collision is about working with hash tables to ensure that each array have
+its own index without any errors occurring.
+
+
+When might an engineer choose a hash table over a list or tree?
+There may be a time when an engineer might use hash table instead of using list or tree
+and the time can be where if the project requires memory in order to be faster than normal.
+I think the engineer might use it if the project is about having a huge amount of emails and passwords and
+storing them to the correct place and rightful owner.
+Lists or tree don't necessarily require memory in order to be faster since they respectively
+do their own features.
